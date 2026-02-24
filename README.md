@@ -1,4 +1,4 @@
-# HR-data-analysis-dashboard-using-power-bi-
+# HR-data-analysis-Report-using-power-bi-
 An interactive and visually rich **Power BI Report** for Human Resources (HR) analytics.  
 This project provides key insights into employee data, enabling HR teams and decision-makers to make informed, data-driven decisions.
 
